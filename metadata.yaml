@@ -1,0 +1,81 @@
+_repo: The-Fortunes-and-Misfortunes-of-the-Famous-Moll-Flanders_370
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Defoe, Daniel
+    aliases:
+    - Defo, Daniel
+    - John, Gabriel
+    - Moreton, Andrew
+    deathdate: 1731
+    gutenberg_agent_id: '204'
+    url: http://www.gutenberg.org/2009/agents/204
+    wikipedia:
+    - http://www.gutenberg.org/browse/authors/j#a26500
+    - http://en.wikipedia.org/wiki/Daniel_Defoe
+description: "The Fortunes and Misfortunes of the Famous Moll Flanders (commonly known\
+  \ simply as Moll Flanders) is a novel by Daniel Defoe, first published in 1722.\
+  \ It purports to be the true account of the life of the eponymous Moll, detailing\
+  \ her exploits from birth until old age.\nBy 1721, Defoe had become a recognised\
+  \ novelist, with the success of Robinson Crusoe in 1719. His political work was\
+  \ tapering off at this point, due to the fall of both Whig and Tory party leaders\
+  \ with whom he had been associated; Robert Walpole was beginning his rise, and Defoe\
+  \ was never fully at home with the Walpole group. Defoe's Whig views are nevertheless\
+  \ evident in the story of Moll, and the novel's full title gives some insight into\
+  \ this and the outline of the plot:\n\nThe Fortunes and Misfortunes of the Famous\
+  \ Moll Flanders, &c. Who was Born in Newgate, and during a Life of continu'd Variety\
+  \ for Threescore Years, besides her Childhood, was Twelve Year a Whore, five times\
+  \ a Wife (whereof once to her own Brother), Twelve Year a Thief, Eight Year a Transported\
+  \ Felon in Virginia, at last grew Rich, liv'd Honest, and died a Penitent. Written\
+  \ from her own Memorandums.\n\nIt is usually assumed that the novel is written by\
+  \ Daniel Defoe, as his name is commonly published as the author in modern printings\
+  \ of the novel, however the original printing did not have an author, as it was\
+  \ an apparent autobiography. The attribution of Moll Flanders to Defoe was made\
+  \ by Francis Noble, a bookseller in 1770, after Defoe's death in 1731.\nThe novel\
+  \ is based partially on the life of Moll King, a London criminal whom Defoe met\
+  \ while visiting Newgate Prison.\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '1995-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '370'
+  wikidata: Q612523
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Adventure stories'
+- !lcsh 'Children of prisoners -- Fiction'
+- !lcc 'PR'
+- !lcsh 'British -- Virginia -- Fiction'
+- !lcsh 'Women -- England -- Fiction'
+- !lcsh 'Criminals -- Fiction'
+- !lcsh 'London (England) -- Fiction'
+- !lcsh 'Repentance -- Fiction'
+- !lcsh 'Prostitutes -- Fiction'
+- !lcsh 'Picaresque literature'
+- !lcsh 'Virginia -- Fiction'
+- GITenberg
+title: The Fortunes and Misfortunes of the Famous Moll Flanders
+url: http://www.gutenberg.org/ebooks/370
+wikipedia:
+- https://et.wikipedia.org/wiki/Moll_Flanders
+- https://fr.wikipedia.org/wiki/Heurs_et_malheurs_de_la_fameuse_Moll_Flanders
+- https://ar.wikipedia.org/wiki/%D9%85%D9%88%D9%84_%D9%81%D9%84%D8%A7%D9%86%D8%AF%D8%B1%D8%B2
+- https://zh.wikipedia.org/wiki/%E6%91%A9%E5%B0%94%C2%B7%E5%BC%97%E5%85%B0%E5%BE%B7%E6%96%AF
+- https://ja.wikipedia.org/wiki/%E3%83%A2%E3%83%AB%E3%83%BB%E3%83%95%E3%83%A9%E3%83%B3%E3%83%80%E3%83%BC%E3%82%BA
+- https://pl.wikipedia.org/wiki/Moll_Flanders
+- https://fi.wikipedia.org/wiki/Moll_Flanders
+- https://cs.wikipedia.org/wiki/Moll_Flandersov%C3%A1
+- https://fa.wikipedia.org/wiki/%D9%85%D8%A7%D9%84_%D9%81%D9%84%D8%A7%D9%86%D8%AF%D8%B1%D8%B2
+- https://de.wikipedia.org/wiki/Moll_Flanders
+- https://es.wikipedia.org/wiki/Moll_Flanders
+- https://hu.wikipedia.org/wiki/Moll_Flanders_%C3%B6r%C3%B6mei_%C3%A9s_viszontags%C3%A1gai
+- https://en.wikisource.org/wiki/Moll_Flanders_and_Roxana/Moll_Flanders
+- https://en.wikipedia.org/wiki/Moll_Flanders
+- https://it.wikipedia.org/wiki/Fortune_e_sfortune_della_famosa_Moll_Flanders
+- https://no.wikipedia.org/wiki/Moll_Flanders
+- https://ru.wikipedia.org/wiki/%D0%9C%D0%BE%D0%BB%D0%BB%D1%8C_%D0%A4%D0%BB%D0%B5%D0%BD%D0%B4%D0%B5%D1%80%D1%81
+- https://sh.wikipedia.org/wiki/Moll_Flanders
+- https://sv.wikipedia.org/wiki/Moll_Flanders_(roman)
+- https://pt.wikipedia.org/wiki/Moll_Flanders
