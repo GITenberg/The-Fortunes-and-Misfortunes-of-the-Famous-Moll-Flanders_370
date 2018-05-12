@@ -1,5 +1,8 @@
 _repo: The-Fortunes-and-Misfortunes-of-the-Famous-Moll-Flanders_370
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Defoe, Daniel
@@ -34,6 +37,8 @@ description: "The Fortunes and Misfortunes of the Famous Moll Flanders (commonly
   \ by Francis Noble, a bookseller in 1770, after Defoe's death in 1731.\nThe novel\
   \ is based partially on the life of Moll King, a London criminal whom Defoe met\
   \ while visiting Newgate Prison.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/370#The-Fortunes-and-Misfortunes-of-the-Famous-Moll-Flanders
 gutenberg_issued: '1995-12-01'
 gutenberg_type: Text
 identifiers:
